@@ -1,0 +1,28 @@
+package Kurs;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Zadanie1 {
+
+    private WebDriver driver;
+
+    @Before
+    public void start() {
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\Agata\\Selenium\\Drivers\\chromedriver.exe");
+        driver = new ChromeDriver();
+    }
+
+    @Test
+    public void test(){
+        driver.get("http://facebook.com");
+    }
+
+    @After
+    public void stop(){
+        driver.quit();
+    }
+}
