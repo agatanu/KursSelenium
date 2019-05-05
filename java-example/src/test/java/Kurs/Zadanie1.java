@@ -26,21 +26,11 @@ public class Zadanie1 {
         //driver = new InternetExplorerDriver();
         //driver = new FirefoxDriver();
 
-//      Firefox ESR 45
-
-/*      DesiredCapabilities caps = new DesiredCapabilities();
-        caps.setCapability(FirefoxDriver.MARIONETTE, false);
-        FirefoxOptions options = new FirefoxOptions();
-        options.setLegacy(true);
-        options.setBinary("C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe");
-        WebDriver driver = new FirefoxDriver(options);
-*/
 //      Firefox Nightly
 
-        DesiredCapabilities caps = new DesiredCapabilities();
-        caps.setCapability(FirefoxDriver.MARIONETTE, true);
-        driver = new FirefoxDriver(new FirefoxBinary(new File("C:\\Program Files\\Firefox Nightly\\firefox.exe")), new FirefoxProfile(), caps);
-        System.out.println(((HasCapabilities) driver).getCapabilities());
+        FirefoxOptions options = new FirefoxOptions();
+        options.setBinary("c:/Program Files/Firefox Nightly/firefox.exe");
+        WebDriver driver = new FirefoxDriver(options);
 
     }
 
