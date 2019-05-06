@@ -30,7 +30,7 @@ public class Zadanie1 {
 
         FirefoxOptions options = new FirefoxOptions();
         options.setBinary("c:/Program Files/Firefox Nightly/firefox.exe");
-        WebDriver driver = new FirefoxDriver(options);
+        driver = new FirefoxDriver(options);
 
     }
 
