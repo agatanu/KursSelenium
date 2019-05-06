@@ -28,10 +28,19 @@ public class Zadanie1 {
 
 //      Firefox Nightly
 
-        FirefoxOptions options = new FirefoxOptions();
+/*      FirefoxOptions options = new FirefoxOptions();
         options.setBinary("c:/Program Files/Firefox Nightly/firefox.exe");
         driver = new FirefoxDriver(options);
 
+//      Firefox ESR 45
+
+        DesiredCapabilities caps = new DesiredCapabilities();
+        caps.setCapability(FirefoxDriver.MARIONETTE, false);
+        FirefoxOptions options = new FirefoxOptions();
+        options.setLegacy(true);
+        options.setBinary("C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe");
+        driver = new FirefoxDriver(options);
+*/
     }
 
     @Test

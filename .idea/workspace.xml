@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d7fd698-45db-4fa4-acf0-d0d9020cdffb" name="Default Changelist" comment="ff nightly test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie1.class" afterDir="false" />
+    <list default="true" id="6d7fd698-45db-4fa4-acf0-d0d9020cdffb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,10 +50,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="95">
+              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1131#1132#0" expanded="true" />
+                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,10 +133,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557153917130" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557154342613" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -300,19 +302,17 @@
       <option name="project" value="LOCAL" />
       <updated>1557088901159</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix for ff nightly">
+      <created>1557153981355</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557153981355</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 16h 12m 16s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 16h 41m 17s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 12m 20s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 12m 40s.xml">
       <configuration name="Zadanie1 (1)" configurationId="JUnit" />
     </history-entry>
@@ -334,6 +334,15 @@
     <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 39m 15s.xml">
       <configuration name="Zadanie1 (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Zadanie1_(1) - 2019.05.06 at 16h 44m 09s.xml">
+      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Zadanie1_(1) - 2019.05.06 at 16h 44m 47s.xml">
+      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Zadanie1_(1) - 2019.05.06 at 16h 49m 44s.xml">
+      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -347,13 +356,13 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.41218132" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.5240793" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.5240793" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -375,7 +384,8 @@
     <MESSAGE value="Zadanie3" />
     <MESSAGE value="all browsers" />
     <MESSAGE value="ff nightly test" />
-    <option name="LAST_COMMIT_MESSAGE" value="ff nightly test" />
+    <MESSAGE value="fix for ff nightly" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix for ff nightly" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyProject.iml">
@@ -405,14 +415,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="32" column="54" lean-forward="true" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="54" />
+        <state relative-caret-position="95">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1669#1670#0" expanded="true" />
-            <element signature="e#1718#1719#0" expanded="true" />
-            <element signature="e#1754#1755#0" expanded="true" />
-            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1131#1132#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1216#1217#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
           </folding>
         </state>
       </provider>
