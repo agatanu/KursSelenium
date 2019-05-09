@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d7fd698-45db-4fa4-acf0-d0d9020cdffb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -47,29 +50,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+            <state relative-caret-position="187">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1131#1132#0" expanded="true" />
-                <element signature="e#1180#1181#0" expanded="true" />
-                <element signature="e#1216#1217#0" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+            <state relative-caret-position="75">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2735#2736#0" expanded="true" />
+                <element signature="e#2764#2765#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,16 +94,16 @@
         <option value="$PROJECT_DIR$/java-example/build.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Zadanie01.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie01.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie3.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie3.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-488" />
-    <option name="y" value="82" />
-    <option name="width" value="1269" />
-    <option name="height" value="909" />
+    <option name="x" value="465" />
+    <option name="y" value="116" />
+    <option name="width" value="1270" />
+    <option name="height" value="910" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -128,16 +129,44 @@
               <item name="java-example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="java-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="java-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyProject" type="462c0819:PsiDirectoryNode" />
+              <item name="java-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Kurs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557154342613" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557433026437" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -156,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Zadanie1 (1)">
+  <component name="RunManager" selected="JUnit.Zadanie3">
     <configuration name="Zadanie01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie01" />
       <module name="ru.stqa.java-example.test" />
@@ -166,52 +195,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kurs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kurs" />
-      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kurs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kurs" />
-      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie1" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie1.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kurs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kurs" />
-      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie1" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -246,13 +229,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie3.checkMenuItems (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example.ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kurs" />
+      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie3" />
+      <option name="METHOD_NAME" value="checkMenuItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie3.login (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example.ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kurs" />
+      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie3" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie3.login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kurs" />
+      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie3" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Zadanie1 (1)" />
-        <item itemvalue="JUnit.Zadanie1" />
-        <item itemvalue="JUnit.Zadanie1.test (1)" />
-        <item itemvalue="JUnit.Zadanie3 (1)" />
         <item itemvalue="JUnit.Zadanie3" />
+        <item itemvalue="JUnit.Zadanie3.checkMenuItems (1)" />
+        <item itemvalue="JUnit.Zadanie3.login (1)" />
+        <item itemvalue="JUnit.Zadanie3 (1)" />
+        <item itemvalue="JUnit.Zadanie3.login" />
       </list>
     </recent_temporary>
   </component>
@@ -309,46 +340,52 @@
       <option name="project" value="LOCAL" />
       <updated>1557153981355</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added script for ff ESR 45">
+      <created>1557154399177</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557154399177</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 12m 40s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 21h 52m 38s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 14m 00s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 21h 58m 46s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 17m 30s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 00m 29s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 28m 14s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 01m 19s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 30m 22s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 02m 23s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 35m 40s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 03m 13s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.05 at 22h 39m 15s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 04m 40s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.06 at 16h 44m 09s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 06m 41s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.06 at 16h 44m 47s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 10m 24s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie1_(1) - 2019.05.06 at 16h 49m 44s.xml">
-      <configuration name="Zadanie1 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie3 - 2019.05.09 at 22h 12m 58s.xml">
+      <configuration name="Zadanie3" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18389262" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,13 +393,13 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3555241" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.41218132" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.5240793" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3186969" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -372,10 +409,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" weight="0.3362416" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.33577406" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -385,7 +422,8 @@
     <MESSAGE value="all browsers" />
     <MESSAGE value="ff nightly test" />
     <MESSAGE value="fix for ff nightly" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix for ff nightly" />
+    <MESSAGE value="added script for ff ESR 45" />
+    <option name="LAST_COMMIT_MESSAGE" value="added script for ff ESR 45" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyProject.iml">
@@ -403,26 +441,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie3.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        <state relative-caret-position="187">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        <state relative-caret-position="75">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1131#1132#0" expanded="true" />
-            <element signature="e#1180#1181#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#2735#2736#0" expanded="true" />
+            <element signature="e#2764#2765#0" expanded="true" />
           </folding>
         </state>
       </provider>
