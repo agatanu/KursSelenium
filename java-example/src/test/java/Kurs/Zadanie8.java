@@ -34,7 +34,7 @@ public class Zadanie8 {
                 List<WebElement> stickers = products.get(a).findElements(By.cssSelector("div.sticker"));
                 int stickersAmount = stickers.size();
                 assertEquals(1, stickersAmount);
-                System.out.println("For this product " + stickers.size() + " sticker/s is/are displayed");
+                System.out.println("For this product " + stickersAmount + " sticker/s is/are displayed");
             }
     }
 
