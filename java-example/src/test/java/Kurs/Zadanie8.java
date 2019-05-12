@@ -27,7 +27,7 @@ public class Zadanie8 {
     @Test
     public void checkAmountOfStickersForEachProduct() {
 
-            List<WebElement> products = driver.findElements(By.cssSelector("div.product"));
+        List<WebElement> products = driver.findElements(By.cssSelector("div.product"));
 
             for (int a = 0; a < products.size(); a++) {
 
