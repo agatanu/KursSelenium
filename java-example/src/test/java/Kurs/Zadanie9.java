@@ -1,6 +1,7 @@
 package Kurs;
 
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -12,6 +13,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
+import java.util.stream.Collectors;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
@@ -47,7 +49,6 @@ public class Zadanie9 {
         for (int i = 0; i < countries.size(); i++) {
             listOfCountries.add(countries.get(i).getText());
         }
-
 
         List<String> unsortedListOfCountries = new ArrayList<String>(listOfCountries);
         Collections.sort(listOfCountries);
@@ -116,7 +117,7 @@ public class Zadanie9 {
 
                 for (int j = 0; j < geoZones.size(); j++) {
 
-                    String geoZoneName = geoZones.get(j).findElement(By.xpath("//select[contains(@name,'zones')]")).getAttribute("textContent");
+                    String geoZoneName = geoZones.get(j).findElement(By.cssSelector("[selected]")).getAttribute("textContent");
                     geoZonesList.add(geoZoneName);
                 }
 
