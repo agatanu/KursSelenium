@@ -64,9 +64,7 @@ public class Zadanie17 {
                     System.out.println("No product!");
                 }
             }
-
         }
-
     }
 }
 
