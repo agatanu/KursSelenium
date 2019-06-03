@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d7fd698-45db-4fa4-acf0-d0d9020cdffb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie10.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie12.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie13.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie15.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/out/test/classes/Zadanie16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/ru.stqa.java-example.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie15.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie15.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
@@ -98,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="356">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1191#1192#0" expanded="true" />
@@ -109,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie7.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="227">
+              <caret line="58" column="48" lean-forward="true" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,10 +97,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="159">
+              <caret line="65" column="72" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,24 +111,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
-              <caret line="133" selection-start-line="133" selection-end-line="136" selection-end-column="5" />
+            <state relative-caret-position="100">
+              <caret line="70" column="85" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2141#2142#0" expanded="true" />
-                <element signature="e#2170#2171#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="245">
-              <caret line="30" column="107" lean-forward="true" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
+              <caret line="30" column="107" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -171,7 +132,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
@@ -229,13 +190,14 @@
         <option value="$PROJECT_DIR$/java-example/build.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie16.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="490" />
-    <option name="y" value="120" />
-    <option name="width" value="1270" />
+    <option name="x" value="-510" />
+    <option name="y" value="58" />
+    <option name="width" value="1918" />
     <option name="height" value="910" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -244,7 +206,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,7 +308,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559465077145" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559563084459" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -329,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Zadanie15.virtualBoxTest (1)">
+  <component name="RunManager" selected="JUnit.Zadanie17.checkLogsForProducts">
     <configuration name="Zadanie01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie01" />
       <module name="ru.stqa.java-example.test" />
@@ -343,30 +341,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie16" />
-      <module name="ru.stqa.java-example.test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Zadanie15 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-example.ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kurs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kurs" />
-      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie15" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Kurs.*" />
@@ -412,13 +388,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie17.checkLogsForProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example.ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kurs" />
+      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie17" />
+      <option name="METHOD_NAME" value="checkLogsForProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie17.checkLogsforProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example.ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kurs" />
+      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie17" />
+      <option name="METHOD_NAME" value="checkLogsforProducts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Zadanie17.checkLogsForProducts" />
+        <item itemvalue="JUnit.Zadanie17.checkLogsforProducts" />
         <item itemvalue="JUnit.Zadanie15.virtualBoxTest (1)" />
         <item itemvalue="JUnit.Zadanie15 (1)" />
         <item itemvalue="JUnit.Zadanie15.virtualBoxTest" />
-        <item itemvalue="JUnit.Zadanie15" />
-        <item itemvalue="Application.Zadanie16" />
       </list>
     </recent_temporary>
   </component>
@@ -580,43 +588,51 @@
       <option name="project" value="LOCAL" />
       <updated>1559278230425</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Zadanie16 browser stack">
+      <created>1559465152761</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1559465152762</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.05.31 at 23h 05m 28s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.02 at 23h 12m 09s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_(1) - 2019.05.31 at 23h 08m 32s.xml">
-      <configuration name="Zadanie15 (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.02 at 23h 18m 05s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.05.31 at 23h 13m 17s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.02 at 23h 26m 30s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.05.31 at 23h 17m 55s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.02 at 23h 29m 55s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.06.02 at 09h 01m 14s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.03 at 10h 45m 40s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.06.02 at 09h 22m 28s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.03 at 11h 49m 13s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.06.02 at 09h 38m 21s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.03 at 11h 55m 56s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.06.02 at 09h 43m 36s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.03 at 12h 02m 08s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.06.02 at 09h 50m 59s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.03 at 13h 50m 33s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie15_virtualBoxTest_(1) - 2019.06.02 at 10h 08m 30s.xml">
-      <configuration name="Zadanie15.virtualBoxTest (1)" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.03 at 13h 51m 22s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884528" visible="true" weight="0.31140938" />
       <window_info id="Structure" order="1" sideWeight="0.5011547" side_tool="true" weight="0.30268458" />
@@ -626,13 +642,13 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.2592068" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.2592068" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="3" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Messages" order="6" weight="0.32152975" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.47875354" />
+      <window_info active="true" anchor="bottom" id="Messages" order="6" visible="true" weight="0.32152975" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3654391" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -701,7 +717,8 @@
     <MESSAGE value="Zadanie13 fixes" />
     <MESSAGE value="Zadanie14" />
     <MESSAGE value="Zadanie15 virtual box" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie15 virtual box" />
+    <MESSAGE value="Zadanie16 browser stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie16 browser stack" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyProject.iml">
@@ -807,28 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -839,10 +834,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie9.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="133" selection-start-line="133" selection-end-line="136" selection-end-column="5" />
+        <state relative-caret-position="245">
+          <caret line="30" column="107" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -861,20 +866,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="30" column="107" lean-forward="true" selection-start-line="30" selection-start-column="107" selection-end-line="30" selection-end-column="107" />
+        <state relative-caret-position="100">
+          <caret line="70" column="85" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie16.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        <state relative-caret-position="356">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="65" column="72" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="58" column="48" lean-forward="true" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
