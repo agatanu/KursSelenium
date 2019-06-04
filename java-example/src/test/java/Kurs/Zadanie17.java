@@ -1,6 +1,5 @@
 package Kurs;
 
-import com.google.gson.annotations.Until;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -17,8 +16,6 @@ import org.openqa.selenium.remote.CapabilityType;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
-
-import static junit.framework.TestCase.assertTrue;
 
 public class Zadanie17 {
 
