@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d7fd698-45db-4fa4-acf0-d0d9020cdffb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_23_0_android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jcraft_jzlib_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__dnsjava_dnsjava_2_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_all_4_0_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_lightbody_bmp_browsermob_core_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_lightbody_bmp_littleproxy_1_1_0_beta_bmp_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_lightbody_bmp_mitm_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcpkix_jdk15on_1_58.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk15on_1_58.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example.ru.stqa.java-example.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example.ru.stqa.java-example.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/java-example.ru.stqa.java-example.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java-example.ru.stqa.java-example.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie17.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie18.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/Kurs/Zadanie18.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -116,67 +95,41 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
+                <element signature="e#1220#1221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="70" column="85" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie18.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/MyListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#665#666#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" column="34" selection-start-line="20" selection-start-column="7" selection-end-line="21" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="30" selection-start-line="30" selection-end-line="33" selection-end-column="72" />
+            <state relative-caret-position="146">
+              <caret line="76" column="49" lean-forward="true" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#3062#3063#0" expanded="true" />
+                <element signature="e#3091#3092#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -230,18 +183,18 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie14.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie16.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie15.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/BrowserMobProxy.java" />
         <option value="$PROJECT_DIR$/java-example/build.gradle" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/MyListener.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie18.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-510" />
-    <option name="y" value="58" />
-    <option name="width" value="1918" />
+    <option name="y" value="57" />
+    <option name="width" value="1919" />
     <option name="height" value="910" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -250,52 +203,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="MyProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="MyProject" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,6 +260,67 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="ru" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="stqa" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Kurs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="MyProject" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="java-example" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java-example" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -361,7 +329,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559592575656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559649652685" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -385,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Zadanie18">
+  <component name="RunManager" selected="JUnit.Zadanie17.checkLogsForProducts">
     <configuration name="Zadanie01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie01" />
       <module name="ru.stqa.java-example.test" />
@@ -395,6 +363,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie17" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-example.ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Kurs" />
+      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie17" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -410,22 +393,6 @@
       <option name="PACKAGE_NAME" value="Kurs" />
       <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie17" />
       <option name="METHOD_NAME" value="checkLogsForProducts" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie17.checkLogsforProducts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-example.ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kurs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Kurs" />
-      <option name="MAIN_CLASS_NAME" value="Kurs.Zadanie17" />
-      <option name="METHOD_NAME" value="checkLogsforProducts" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -480,11 +447,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Zadanie18" />
-        <item itemvalue="JUnit.Zadanie18.trafficOnTelerikFiddler" />
-        <item itemvalue="JUnit.Zadanie18.getBrowserLogs" />
         <item itemvalue="JUnit.Zadanie17.checkLogsForProducts" />
-        <item itemvalue="JUnit.Zadanie17.checkLogsforProducts" />
+        <item itemvalue="JUnit.Zadanie17" />
+        <item itemvalue="JUnit.Zadanie18.trafficOnTelerikFiddler" />
+        <item itemvalue="JUnit.Zadanie18" />
+        <item itemvalue="JUnit.Zadanie18.getBrowserLogs" />
       </list>
     </recent_temporary>
   </component>
@@ -660,46 +627,53 @@
       <option name="project" value="LOCAL" />
       <updated>1559563147207</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Zadanie18 traffic on Telerik Fiddler proxy server">
+      <created>1559592670742</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1559592670742</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Zadanie18 - 2019.06.03 at 21h 34m 39s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 20m 26s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18 - 2019.06.03 at 21h 35m 27s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 32m 41s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18_getBrowserLogs - 2019.06.03 at 21h 36m 29s.xml">
-      <configuration name="Zadanie18.getBrowserLogs" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 33m 28s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18_getBrowserLogs - 2019.06.03 at 21h 50m 02s.xml">
-      <configuration name="Zadanie18.getBrowserLogs" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 34m 04s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18 - 2019.06.03 at 21h 52m 43s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 41m 44s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18 - 2019.06.03 at 21h 53m 31s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 44m 52s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18 - 2019.06.03 at 22h 01m 03s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17 - 2019.06.04 at 13h 45m 47s.xml">
+      <configuration name="Zadanie17" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18 - 2019.06.03 at 22h 03m 22s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17 - 2019.06.04 at 13h 47m 31s.xml">
+      <configuration name="Zadanie17" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18 - 2019.06.03 at 22h 03m 47s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 55m 50s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Zadanie18 - 2019.06.03 at 22h 05m 54s.xml">
-      <configuration name="Zadanie18" configurationId="JUnit" />
+    <history-entry file="Zadanie17_checkLogsForProducts - 2019.06.04 at 13h 59m 30s.xml">
+      <configuration name="Zadanie17.checkLogsForProducts" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.31073827" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4957806" visible="true" weight="0.31543624" />
       <window_info id="Structure" order="1" sideWeight="0.5042194" side_tool="true" weight="0.31073827" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -784,7 +758,9 @@
     <MESSAGE value="Zadanie15 virtual box" />
     <MESSAGE value="Zadanie16 browser stack" />
     <MESSAGE value="Zadanie17 logs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie17 logs" />
+    <MESSAGE value="Zadanie17 traffic on Telerik Fiddler proxy server" />
+    <MESSAGE value="Zadanie18 traffic on Telerik Fiddler proxy server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zadanie18 traffic on Telerik Fiddler proxy server" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyProject.iml">
@@ -805,27 +781,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.0.0-alpha-1/ef9cfb3ced85af32979df55d3687f11cdd03af9c/selenium-support-4.0.0-alpha-1-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.0.0-alpha-1/e1245ab2be182ef8762d680da5861a5b13d9efd5/selenium-remote-driver-4.0.0-alpha-1-sources.jar!/org/openqa/selenium/remote/ErrorHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="213" selection-start-line="213" selection-end-line="213" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.0.0-alpha-1/e1245ab2be182ef8762d680da5861a5b13d9efd5/selenium-remote-driver-4.0.0-alpha-1-sources.jar!/org/openqa/selenium/remote/RemoteWebElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="347" column="11" lean-forward="true" selection-start-line="347" selection-start-column="11" selection-end-line="347" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.0.0-alpha-1/ef9cfb3ced85af32979df55d3687f11cdd03af9c/selenium-support-4.0.0-alpha-1-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.0.0-alpha-1/e1245ab2be182ef8762d680da5861a5b13d9efd5/selenium-remote-driver-4.0.0-alpha-1-sources.jar!/org/openqa/selenium/remote/ErrorHandler.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.0.0-alpha-1/e1245ab2be182ef8762d680da5861a5b13d9efd5/selenium-remote-driver-4.0.0-alpha-1-sources.jar!/org/openqa/selenium/remote/RemoteWebElement.java" />
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Task13.java" />
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie12.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -885,18 +843,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -907,33 +853,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="70" column="85" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/BrowserMobProxy.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/BrowserMobProxy.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/Consumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="30" selection-start-line="30" selection-end-line="33" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -957,6 +881,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/MyListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -970,13 +901,6 @@
             <element signature="e#620#621#0" expanded="true" />
             <element signature="e#665#666#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -1002,10 +926,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie18.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="330">
+          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="70" column="85" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/Kurs/Zadanie17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="76" column="49" lean-forward="true" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3062#3063#0" expanded="true" />
+            <element signature="e#3091#3092#0" expanded="true" />
           </folding>
         </state>
       </provider>
